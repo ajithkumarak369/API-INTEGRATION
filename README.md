@@ -36,3 +36,7 @@ Browser: Google Chrome (for testing)
 
 This task is applicable in various real-world scenarios such as user dashboards, social media feeds, CRM systems, and web apps that rely on external data sources. Completing this task helped me strengthen my skills in API consumption, asynchronous JavaScript, and building responsive user interfaces.
 
+*Output*: 
+
+<img width="1920" height="1034" alt="Image" src="https://github.com/user-attachments/assets/7c120c23-01e6-4ceb-b1b0-0d1b45912b20" />
+
